@@ -1,0 +1,12 @@
+# media files (do NOT upload)
+*.mp4
+*.mp3
+*.wav
+*.pdf
+*.mov
+
+# folders to ignore
+node_modules/
+raw/
+videos/
+audio/
